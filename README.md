@@ -13,18 +13,10 @@ A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para imple
 
 A sua classe principal, a classe de tarefa, deve ser a seguinte:
 
-![Diagrama da classe Tarefa](diagrama.png)
-
 Não se esqueça de gerar a sua migration para atualização no banco de dados.
 
 ## Métodos esperados
 É esperado que você crie o seus métodos conforme a seguir:
-
-
-**Swagger**
-
-
-![Métodos Swagger](swagger.png)
 
 
 **Endpoints**
